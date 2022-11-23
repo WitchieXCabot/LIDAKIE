@@ -1,0 +1,32 @@
+{
+  "name": "lidakie",
+  "version": "1.0.0",
+  "description": "large image data knowledge investigations and extractions",
+  "main": "lidakie.js",
+  "scripts": {
+    "test": "nodemon lidakie.js",
+    "start": "node lidakie.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WitchieXCabot/LIDAKIE.git"
+  },
+  "keywords": [
+    "image",
+    "data",
+    "large",
+    "data",
+    "image",
+    "extractor"
+  ],
+  "author": "witchie || witchiexcabot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WitchieXCabot/LIDAKIE/issues"
+  },
+  "homepage": "https://github.com/WitchieXCabot/LIDAKIE#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
